@@ -1,4 +1,4 @@
-# helloProxy [![Build Status](https://secure.travis-ci.org/helloProxy/helloproxy.png?branch=master)](http://travis-ci.org/helloProxy/helloproxy)
+# helloProxy [![Build Status](https://secure.travis-ci.org/samlam/helloproxy.png?branch=master)](https://travis-ci.org/samlam/helloProxy)
 
 simple outbound proxy server for both http and https protocols. original source from
 
