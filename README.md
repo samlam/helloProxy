@@ -1,14 +1,10 @@
 # helloProxy [![Build Status](https://secure.travis-ci.org/helloProxy/helloproxy.png?branch=master)](http://travis-ci.org/helloProxy/helloproxy)
 
-outbound proxy server
+simple outbound proxy server for both http and https protocols. original source from
 
-## Getting Started
-Install the module with: `npm install helloproxy`
 
-```javascript
-var helloproxy = require('helloproxy');
-helloproxy.awesome(); // "awesome"
-```
+https://newspaint.wordpress.com/2012/11/05/node-js-http-and-https-proxy/
+
 
 ## Documentation
 _(Coming soon)_
@@ -23,4 +19,4 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 _(Nothing yet)_
 
 ## License
-Copyright (c) 2014 Anonymous. Licensed under the MIT license.
+Copyright (c) 2014 samlam.com. Licensed under the MIT license.

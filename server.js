@@ -33,7 +33,7 @@ function httpUserRequest(userRequest, userResponse) {
     var path = userRequest.url;
     result = /^[a-zA-Z]+:\/\/[^\/]+(\/.*)?$/.exec(userRequest.url);
     if (result) {
-        if (result[1].length > 0) {
+        if (result[1] && result[1].length && result[1].length > 0) {
             path = result[1];
         } else {
             path = "/";

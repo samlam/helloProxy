@@ -3,12 +3,11 @@
   "version": "0.0.0",
   "main": "lib/helloproxy.js",
   "description": "outbound proxy server",
-  "homepage": "http://lab.samlam.com",
+  "homepage": "http://samlam.com",
   "bugs": "user/repo/issues",
   "author": {
-    "name": "Anonymous",
-    "email": "test@test.com",
-    "url": "http://lab.samlam.com"
+    "name": "samlam.com",
+    "url": "http://samlam.com"
   },
   "repository": {
     "type": "git",
