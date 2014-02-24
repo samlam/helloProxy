@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # helloProxy [![Build Status](https://secure.travis-ci.org/helloProxy/helloproxy.png?branch=master)](http://travis-ci.org/helloProxy/helloproxy)
 
 simple outbound proxy server for both http and https protocols. original source from
@@ -21,7 +20,3 @@ _(Nothing yet)_
 
 ## License
 Copyright (c) 2014 samlam.com. Licensed under the MIT license.
-=======
-helloProxy
-==========
->>>>>>> a9dc9590dbabc1efd7f46fd752e24c172d6863a1
